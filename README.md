@@ -13,3 +13,8 @@ In the workforce age analysis, the age group around 30 has the highest number of
 
 <img width="551" alt="image" src="https://github.com/Miracleefe/HR-Analysis/assets/151831246/83f13c75-96c7-4840-9ada-7234d061db5d">
 
+In job pay analysis, the role of a 'Product Manager' has the highest pay. This means that among various positions, individuals in the role of a Product Manager receive the highest compensation. Understanding the factors contributing to this, such as the responsibilities associated with the position or market demand for skilled product management, can provide insights for HR decisions and salary structures within the organization.
+
+<img width="449" alt="image" src="https://github.com/Miracleefe/HR-Analysis/assets/151831246/97c90e0d-09f9-4db0-a96d-f5d2ead04146">
+
+
